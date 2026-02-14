@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm IntinGtion 👋
 
-<!--
-**IntinGtion/IntinGtion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on automation, tooling and clean architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Build
+
+- ⚙️ Automation tools (PowerShell / CLI)
+- 🧩 .NET applications
+- 📂 File analysis & processing tools
+- 🌐 Lightweight web projects (HTML/CSS/JS)
+
+---
+
+## 🧠 Engineering Focus
+
+I enjoy building practical tools that solve real problems  
+with clean structure, maintainable code and clear documentation.
+
+---
+
+## 📈 Current Direction
+
+- Building structured CLI tools in C#
+- Improving automation workflows
+- Focusing on architecture and code quality
+
+---
+
+## 📫 Contact
+
+This GitHub is used for learning and personal projects.
