@@ -32,6 +32,3 @@ with clean structure, maintainable code and clear documentation.
 
 This GitHub is used for learning and personal projects.
 
-## Setup Test
-
-Git + VS Code workflow successfully configured.
